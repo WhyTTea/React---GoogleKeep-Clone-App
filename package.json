@@ -1,5 +1,5 @@
 {
-  "name": "keeper-app-part-1-starting",
+  "name": "react-keeper-app",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -12,7 +12,6 @@
   "devDependencies": {
     "typescript": "3.3.3"
   },
-  "type":"module",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
